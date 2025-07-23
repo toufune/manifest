@@ -117,7 +117,6 @@
   <project path="system/bpf" name="system_bpf" groups="pdk" remote="witaqua" />
   <project path="system/chre" name="system_chre" groups="pdk" remote="witaqua" />
   <project path="system/core" name="system_core" groups="pdk" remote="witaqua" />
-  <project path="system/extras" name="system_extras" groups="pdk" remote="witaqua" />
   <project path="system/libhidl" name="system_libhidl" groups="pdk,sysui-studio" remote="witaqua" />
   <project path="system/libziparchive" name="system_libziparchive" groups="pdk" remote="witaqua" />
   <project path="system/logging" name="system_logging" groups="pdk" remote="witaqua" />
@@ -125,7 +124,6 @@
   <project path="system/netd" name="system_netd" groups="pdk" remote="witaqua" />
   <project path="system/security" name="system_security" groups="pdk" remote="witaqua" />
   <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="witaqua" />
-  <project path="system/tools/mkbootimg" name="system_tools_mkbootimg" groups="pdk" remote="witaqua" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="witaqua" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="witaqua" />
 
