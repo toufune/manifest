@@ -78,7 +78,11 @@
   <project path="packages/apps/Updater" name="packages_apps_Updater" remote="witaqua" />
   <project path="packages/apps/WitAquaLauncher" name="packages_apps_WitAquaLauncher" groups="pdk-fs,sysui-studio,pdk-cw-tvc" remote="witaqua" />
   <project path="packages/apps/WitAquaMagic" name="packages_apps_WitAquaMagic" remote="witaqua" />
+  <project path="packages/modules/Bluetooth" name="packages_modules_Bluetooth" groups="pdk" remote="witaqua" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="witaqua" />
+
+  <!-- Prebuilts -->
+  <project path="prebuilts/custom-sdk" name="TheParasiteProject/prebuilts_custom-sdk" remote="github" revision="main" />
 
   <!-- System -->
   <project path="system/core" name="system_core" groups="pdk" remote="witaqua" />
