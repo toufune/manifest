@@ -52,7 +52,6 @@
   <!-- External -->
   <project path="external/bouncycastle" name="external_bouncycastle" groups="pdk" remote="witaqua" />
   <project path="external/FadingEdgeLayout" name="external_FadingEdgeLayout" remote="witaqua" />
-  <project path="external/robolectric" name="external_robolectric" groups="pdk" remote="witaqua" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" groups="pdk,sysui-studio" remote="witaqua" />
